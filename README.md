@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**haydenllh/haydenllh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Hayden, a computational math student in the University of Waterloo. I previously worked at [GreenTomato Hong Kong]([https://gtomato.com](https://www.gtomato.com/)) as a Machine Learning Developer Trainee for a year. Nice to meet you!
 
-Here are some ideas to get you started:
+I am currently learning:
+- Computer Vision and Natural Language Processing
+- Cryptography
+- Financial Mathematics
+- Complex Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Things that I have worked on:
+- Handwriting recognition app for HKMovie6
+- Large Language Model
+- C++ Biquadris game (CS 246 Group Project)

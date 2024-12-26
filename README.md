@@ -9,6 +9,6 @@ I am currently learning:
 - Complex Analysis
 
 Things that I have worked on:
-- Handwriting recognition app for HKMovie6
-- Large Language Model
+- Handwriting Recognition ML Model for HKMovie6
+- Large Language Model (Chatbot Assistant)
 - C++ Biquadris game (CS 246 Group Project)

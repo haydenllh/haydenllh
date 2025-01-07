@@ -9,6 +9,6 @@ I am currently learning:
 - Complex Analysis
 
 Things that I have worked on:
-- Handwriting Recognition ML Model for HKMovie6: [Academic Report](https://docs.google.com/document/d/1oKzc9a4qPmpvytUeeQcHdEgixf-d5zbH-DNYR1KaZQE/edit?usp=sharing)
+- Handwriting Recognition ML Model for HKMovie6: [Academic Report](https://drive.google.com/file/d/1yRqkJxdbryQemT0y07rThwV7ZJN4e1vc/view?usp=sharing)
 - Large Language Model (Chatbot Assistant)
 - C++ Tetris game (CS 246 Group Project)

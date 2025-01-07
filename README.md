@@ -11,4 +11,4 @@ I am currently learning:
 Things that I have worked on:
 - Handwriting Recognition ML Model for HKMovie6
 - Large Language Model (Chatbot Assistant)
-- C++ Biquadris game (CS 246 Group Project)
+- C++ Tetris game (CS 246 Group Project)
